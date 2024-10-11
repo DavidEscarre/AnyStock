@@ -1,2 +1,0 @@
-reyes,123,responsable
-mesa,silla,vendedor
